@@ -15,10 +15,11 @@
 - <b>Cleaning Zomato dataset, finding insights, storytelling and creating dashboards.</b>
 - <b>Hand written digits/ Text Detection using Deep learning techniques.</b>
 
+<h2>📫 Reach me on: samayakmalhotra@gmail.com </h2>
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SamayakMalhotra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SamayakMalhotra| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/run.with.sam/
 [linkedin]: https://linkedin.com/in/samayakmalhotra
